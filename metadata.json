@@ -1,0 +1,7 @@
+{
+  "name": "OtoAnaliz AI - Akıllı Ekspertiz",
+  "description": "Yapay zeka destekli araç tanımlama, hasar analizi ve piyasa değerlemesi uygulaması. Nadir modelleri tanır, anlık piyasa verileriyle fiyat tahmini yapar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
